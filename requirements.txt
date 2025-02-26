@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+pyjwt
+passlib
+cryptography
+python-dotenv
+python-multipart
+sqlalchemy
+slowapi
